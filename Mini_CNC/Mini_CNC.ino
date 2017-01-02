@@ -22,7 +22,7 @@
 #include <Servo.h>
 #include <AFMotor.h>
 #include "Configuration.h"
-#include "CNCPlotter.h"
+#include "Mini_CNC.h"
 
 /* ---- setup() & loop() - Arduino Methods -----------------------------------*/
 void setup() {
